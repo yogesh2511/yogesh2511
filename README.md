@@ -22,19 +22,12 @@ Programming Languages 🚀
 
 					
 🤖 My Test Automation Projects
-
-cypress-demo-framework - Project where I cover the basic concepts of Cypress IO & integrate different technologies like docker, browserstack, mochawesome reports, and so on.
-cypress-cucumber-framework V1-V9 - This project is a code concept of using cypress and cucumber with page object model
-cypress-cucumber-framework V10+ - This project is a code concept of using cypress and cucumber with page object model. You can clone it and start using it for your purposes.
 selenium-java-maven - Project with Selenium, TestNG, Maven, Listener, Parallelism(Thread Safe), Extent Reports.
-selenium-java-gradle - Gradle Project. Want to try Selenium 4 & TestNg.
-python-se - Selenium + Pytest project with Github Actions integration.
+selenium-C#-Specflow - Project with Selenium, Specflow, Listener, Parallelism(Thread Safe), Extent Reports, Azure.
+python-pytest - Playwright + Pytest project with Github Actions integration.
 Postman-Collection-Demo - Postman collections, variables, authentication, and testing.
-Webdriver.io Framework with Javascript - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
-Webdriver.io Framework with Typescript - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
+WinApp Driver Framework with C# - WinApp config file, page object model, allure reporter, selenium standalone service, etc.
 Playwright Framework with Python - Playwright with Async IO & Pytest.
-Testcafe Framework - Project using TestCafe + Javascript to explain how the framework works and to serve as a template for others to start implementing tests.
-WebDriver.IO + Appium - IOS & Android mobile testing integrated with Browserstack.
 
 📝 Testing Tools 
 
