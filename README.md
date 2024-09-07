@@ -1,5 +1,9 @@
 ### Hello 👋, I'm Yogesh Solanki
-Software Test Engineer
+I work as Quality Assurance Automation Specialist.
+Focused on Test and Process Automation
+Love to share knowledge with peers and learn something new every day.
+
+
 <!--
 **yogesh2511/yogesh2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
