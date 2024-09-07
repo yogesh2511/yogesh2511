@@ -4,7 +4,7 @@ Focused on Test and Process Automation
 Love to share knowledge with peers and learn something new every day.
 
 
-💻 My Tech Stack
+💻 Civica Resource Pvt Ltd
 Programming Languages 🚀
 
 					
