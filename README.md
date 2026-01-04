@@ -39,7 +39,7 @@ Playwright Framework with Python - Playwright with Async IO & Pytest.
 - Operating Systems : Windows flavors XP/Win7 / Win8 / Win10 (32/ 64bit)
   
 📝 Projects
-Company : Persistent Systems.
+- Company : Persistent Systems.
 - Location : Ahmedabad
 - Duration : May 2025 to till now
 - Project Name : OneAdvanced Legal
