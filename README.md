@@ -43,9 +43,15 @@ Playwright Framework with Python - Playwright with Async IO & Pytest.
 - Operating Systems : Windows flavors XP/Win7 / Win8 / Win10 (32/ 64bit)
   
 📝 Projects
+Company : Persistent Systems.
+- Location : Ahmedabad
+- Duration : May 2025 to till now
+- Project Name : OneAdvanced Legal
+- Languages : C#
+- Description : The product help law firms focus on their clients, service delivery and growth by providing a cost-effective, cloud-native software portfolio with optional embedded AI, delivered in a safe and compliant environment, to streamline your daily tasks and enhance productivity..
 Company : Civica India Pvt Ltd.
 - Location : Vadodara
-- Duration : March 2019 to till now
+- Duration : March 2019 to May 2025
 - Project Name : Financial Web
 - Languages : Java
 - Description : Financial web are one of the web application which provide Pension Solution of
