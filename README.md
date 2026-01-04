@@ -65,7 +65,7 @@ for Allied Health Science
 - Responsibilities : Analysis Requirement and Develop test cases and prioritize testing activities.
 Execute all the test case and report defects, define severity and priority for each defect. Carry out
 regression testing every time when changes are made to the code to fix defects.
-Company : Rangam InfoTech Pvt Ltd.
+- Company : Rangam InfoTech Pvt Ltd.
 - Location : Vadodara
 - Duration : March 2016 June 2018
 - Project Name : SourcePros
