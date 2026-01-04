@@ -16,10 +16,6 @@ Love to share knowledge with peers and learn something new every day.
 · Experience in creating Requirement Traceability Matrix (RTM), Daily/Weekly Status Report, Defect Report, and Project Report.
 · Clear understanding of business procedures and ability to work as an individual and as a part of a team.
 · Self-motivated, energetic and highly ethical in all work-related assignments thus able to immediately contribute to corporate goals.
-
-💻 Civica Resource Pvt Ltd
-Programming Languages 🚀
-
 					
 🤖 My Test Automation Projects
 selenium-java-maven - Project with Selenium, TestNG, Maven, Listener, Parallelism(Thread Safe), Extent Reports.
