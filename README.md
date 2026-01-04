@@ -48,8 +48,8 @@ Company : Persistent Systems.
 - Duration : May 2025 to till now
 - Project Name : OneAdvanced Legal
 - Languages : C#
-- Description : The product help law firms focus on their clients, service delivery and growth by providing a cost-effective, cloud-native software portfolio with optional embedded AI, delivered in a safe and compliant environment, to streamline your daily tasks and enhance productivity..
-Company : Civica India Pvt Ltd.
+- Description : The product help law firms focus on their clients, service delivery and growth by providing a cost-effective, cloud-native software portfolio with optional embedded AI, delivered in a safe and compliant environment, to streamline your daily tasks and enhance productivity.
+- Company : Civica India Pvt Ltd.
 - Location : Vadodara
 - Duration : March 2019 to May 2025
 - Project Name : Financial Web
