@@ -78,15 +78,6 @@ matches to quickly fill any open positions for our clients.
 - Responsibilities : Developing Selenium automation framework using TestNG and developing Maven
 targets to execute automation suites. Experience in automating regression test cases using Selenium
 Web Driver.
-- Company : KIT Solution Pvt Ltd
-- Location : Vadodara
-- Duration : Sep 2013 to Feb 2016
-- Project Name : Scanning and Mobility
-- Client : Honeywell
-- Languages : VC++
-- Description : Honeywell having multiple types of scanners, which are located in different locations.
-Our Task is to control the scanners from centralized location.
-- Responsibilities : Testing Scanner with Client server application. 
 
 <!--
 **yogesh2511/yogesh2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
